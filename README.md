@@ -15,7 +15,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/](https://medium.com/)
 
-- 💬 Ask me about **Cloud, React, JavaScript, Java**
+- 💬 Ask me about **Cloud, React, JavaScript, Python, Java**
 
 - 📫 How to reach me **avantikabhadke@gmail.com**
 
